@@ -4,6 +4,7 @@ Preliminary research about CHOP-targeting candidiates
 ## Pre-requisites
 - Install Racket (Used: version 8.0)
 - Convert tsv or csv files into node/edge index (refer to mediKanren repo)
+- Requirement: common.rkt of medikanren2
 - Locate CHOP.rkt to appropriate directory
 
 ## Key references
