@@ -7,5 +7,5 @@ Preliminary research about CHOP-targeting candidiates
 - Locate CHOP.rkt to appropriate directory
 
 ## Key references
-`Data source`: https://github.com/RTXteam/RTX
-`Logic engine`: https://github.com/webyrd/mediKanren
+Data source: https://github.com/RTXteam/RTX
+Logic engine: https://github.com/webyrd/mediKanren
